@@ -1,6 +1,7 @@
 return {
 	bot_api_key = '',
-	admin = 94746365, 
+	admin = 247406456
+ , 
 	channel = '@BeatBot_Team', --channel username with the '@'
 
 	plugins = {
